@@ -8,7 +8,7 @@
 * **Fluent Validation**
 * **CQRS yapısı ve Mediatr kütüphanesi**
 * **Jwt Token ile giriş yapma ve rolleme işlemleri**
-* **PosgreSql**
+* **PostgreSql**
 * **Mapster**
 * **SeriLogger**
 * **Cache**
