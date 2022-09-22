@@ -78,7 +78,7 @@
 ### Çalıştırılması
 Local klasöre projeyi klonlamak için :
 ```
- git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/FinalProject-Bedrhann
+ git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/Paycore.FinalProject-Bedrhann
 ```
 PosgreSql bağlantı yolunuzu aşagıdaki gibi kendi bilgisayarına göre giriniz.
 
